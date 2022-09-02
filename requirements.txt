@@ -1,0 +1,7 @@
+pandas
+librosa
+pyannote.audio==2.0.1
+https://github.com/kpu/kenlm/archive/master.zip
+transformers
+pyctcdecode
+--extra-index-url https://download.pytorch.org/whl/cu113 torch
